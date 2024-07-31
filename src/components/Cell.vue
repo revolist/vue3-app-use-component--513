@@ -11,11 +11,7 @@
 
 <script lang="ts" setup>
     import { ref, inject } from "vue";
-    // You can use defineProps<ColumnDataSchemaModel> directly in your project
-    // interface MyType extends ColumnDataSchemaModel {
-    //     rowIndex: number;
-    //     value: any;
-    // }
+    import { ElSwitch } from "element-plus";
     const props = defineProps<
         {
             prop: any;

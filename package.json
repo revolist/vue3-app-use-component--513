@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
+    "unplugin-element-plus": "^0.8.0",
     "@revolist/vue3-datagrid": "^4.8.14",
     "@unocss/preset-legacy-compat": "^0.61.5",
     "@vitejs/plugin-vue-jsx": "^4.0.0",
